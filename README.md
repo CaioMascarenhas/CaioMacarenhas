@@ -1,5 +1,3 @@
-# Olá! 👋
-
 Sou Caio Mascarenhas Soares, desenvolvedor fullstack atualmente na empresa Santa Casa de Maceió, estudante em finalização do curso de Ciência da Computação pela Universidade Federal de Alagoas.
 
 ## 🚀 Sobre mim
